@@ -15,6 +15,4 @@
       "memory": 3008,
       "maxDuration": 30
     }
-  },
-  "ignore": ["data/", "faiss_index/", "venv/", ".env", "*.log"]
-}
+  }}
