@@ -1,0 +1,9 @@
+Flask
+waitress
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+pyht
+google-generativeai
